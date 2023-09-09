@@ -1,0 +1,7 @@
+cd
+pmd 
+ls
+mkdir
+
+w = 저장
+q = 나가기
